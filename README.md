@@ -374,4 +374,3 @@ answers_results = answers_query_job.to_dataframe() # Your code goes here
 # Preview results
 print(answers_results.head())
 ```
-
